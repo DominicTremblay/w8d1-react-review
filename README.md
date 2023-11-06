@@ -1,13 +1,10 @@
 # W08D1 - React Review
 
-- Building Components
-- Props
+- Components
+- API
+- useEffect
 - State
-- Forms
-- API & Data Fetching
-  - useEffect
-  - Axios
-  - multiple promises
-- Custom Hook
-- Reducer
+- Props
+- Custom Hooks
+- useReducer
 
