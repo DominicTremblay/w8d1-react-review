@@ -1,0 +1,12 @@
+.poster {
+  background-color: black;
+  color: whitesmoke;
+  width: 22rem;
+  text-align: center;
+  padding: 2rem;
+}
+
+.poster--img {
+  width: 20rem;
+  border-radius: 0.3rem;
+}
