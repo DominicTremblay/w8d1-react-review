@@ -1,10 +1,9 @@
 # W08D1 - React Review
 
-- Components
-- API
-- useEffect
-- State
-- Props
+- Break Down the UI Into Components
+- Managing Props
+- Managing State
+- Data Fetching with useEffect
 - Custom Hooks
-- useReducer
+- Manage State with useReducer
 
