@@ -1,0 +1,9 @@
+.poster-list {
+  display: flex;
+  background-color: lightblue;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 1rem;
+  padding: 2rem;
+  border-radius: 0.3rem;
+}

@@ -1,0 +1,22 @@
+.poster-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: lightgray;
+  width: 30%;
+  padding: 1rem;
+}
+
+.form-control {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  padding: 0.2rem;
+  margin-bottom: 0.4rem;
+}
+
+.form-control label {
+  flex-basis: 28%;
+  text-align: right;
+  margin-right: 1rem;
+} 
